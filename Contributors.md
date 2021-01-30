@@ -64,6 +64,7 @@ Adam Blaylock
 - Kyle Mo
 - Ian Ambos
 - Yerdaulet
+OneTinySauce
 - [Samrath](https://github.com/samrath-sudesh-acharya) 
 - Liam Scholl (https://github.com/las589)
 - Jared McNeece (https://github.com/Jmcneece)
@@ -2276,6 +2277,7 @@ Shubham Gupta
 - Amar kumar
 - Yash Lad
 - Harshal Dehra
+- OneTinySauce
 - Tejas Dehra
 - Sahil Dhingra
 - [Dicka Estu](https://github.com/dickaestu)
